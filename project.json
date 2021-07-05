@@ -1,17 +1,17 @@
 {
-  "name": "practice3 dictionaries and integers",
+  "name": "GeBiz Project",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
-    "UiPath.Mail.Activities": "[1.10.4]",
-    "UiPath.System.Activities": "[21.4.0]",
-    "UiPath.UIAutomation.Activities": "[21.4.3]"
+    "UiPath.Mail.Activities": "[1.10.5]",
+    "UiPath.System.Activities": "[21.4.1]",
+    "UiPath.UIAutomation.Activities": "[21.4.4]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "21.4.3.0",
+  "studioVersion": "21.4.4.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -43,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "c73be5c3-b6a8-4255-8ac0-8e3a259a9590",
+      "uniqueId": "6f1a38e3-a658-4b38-a2d5-64b6c5afef54",
       "input": [],
       "output": []
     }
